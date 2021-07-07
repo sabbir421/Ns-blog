@@ -14,7 +14,7 @@
     border-bottom: 5px solid;
     border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
-    opacity: 0.;
+    
     
   
    
@@ -86,7 +86,7 @@ footer{
 
 }
 .contact{
-    background-color:rgb(228, 96, 8);
+    background-color:black;
     height: 350px;
     width: 40%;
     margin-left: 5%;
@@ -110,7 +110,7 @@ footer{
 
 
 .register{
-    background-color:rgb(228, 96, 8);
+    background-color:black;
     height: 350px;
     width: 40%;
     margin-left: 5%;
@@ -145,6 +145,7 @@ h4{
     footer {
      display: inline;
      width: 100%;
+     margin: 0;
     }
   }
   @media only screen and (max-width: 450px) {
